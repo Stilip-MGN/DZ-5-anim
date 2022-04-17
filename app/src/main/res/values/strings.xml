@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimationDZ</string>
+    <string name="click_me">Нажми на меня!</string>
+    <string name="animation">Анимация</string>
+</resources>
